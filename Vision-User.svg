@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-4 {
+        opacity: .39;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #1c1c1c;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="250" y1="498.21" x2="250" y2="1.79" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#bc3131"/>
+      <stop offset="1" stop-color="#e26d52"/>
+    </linearGradient>
+  </defs>
+  <circle class="cls-1" cx="250" cy="250" r="248.21"/>
+  <g id="user_solid" data-name="user solid" class="cls-4">
+    <path id="Path_15" data-name="Path 15" class="cls-3" d="M140.83,351.33c0-36.16,29.31-65.48,65.48-65.48h73.37c36.16,0,65.48,29.31,65.48,65.48h0c0,14.92-10.1,27.87-24.81,30.31-25.57,4.21-51.44,6.34-77.35,6.38-25.91-.04-51.78-2.17-77.35-6.39-14.72-2.43-24.81-15.38-24.81-30.3Z"/>
+    <path id="Path_16" data-name="Path 16" class="cls-3" d="M179.14,196.46c0-35.26,28.59-63.85,63.85-63.85s63.85,28.59,63.85,63.85-28.59,63.85-63.85,63.85-63.85-28.59-63.85-63.85Z"/>
+  </g>
+  <g id="user_solid-2" data-name="user solid">
+    <path id="Path_15-2" data-name="Path 15" class="cls-2" d="M147.84,341.02c0-36.16,29.31-65.48,65.48-65.48h73.37c36.16,0,65.48,29.31,65.48,65.48h0c0,14.92-10.1,27.87-24.81,30.31-25.57,4.21-51.44,6.34-77.35,6.38-25.91-.04-51.78-2.17-77.35-6.39-14.72-2.43-24.81-15.38-24.81-30.3Z"/>
+    <path id="Path_16-2" data-name="Path 16" class="cls-2" d="M186.15,186.15c0-35.26,28.59-63.85,63.85-63.85s63.85,28.59,63.85,63.85-28.59,63.85-63.85,63.85-63.85-28.59-63.85-63.85Z"/>
+  </g>
+</svg>
